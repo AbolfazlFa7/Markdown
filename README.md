@@ -473,6 +473,13 @@ square brackets `[]`
 angle brackets `<>`
 parentheses `()`
 hash `#`
+
+
+---
+
+<br>
+
+# If you like this doc, give me an star
 plus sigh `+`
 hyphen `-`
 dot `.`
