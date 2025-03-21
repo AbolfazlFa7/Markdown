@@ -473,6 +473,12 @@ square brackets `[]`
 angle brackets `<>`
 parentheses `()`
 hash `#`
+plus sigh `+`
+hyphen `-`
+dot `.`
+exclamation mark `!`
+and pipe `|`
+in markdown using backslash `\`
 
 
 ---
@@ -480,9 +486,3 @@ hash `#`
 <br>
 
 # If you like this doc, give me an star
-plus sigh `+`
-hyphen `-`
-dot `.`
-exclamation mark `!`
-and pipe `|`
-in markdown using backslash `\`
